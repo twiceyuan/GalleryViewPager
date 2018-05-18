@@ -9,7 +9,7 @@
     tools:context=".MainActivity">
 
     <com.twiceyuan.galleryviewpager.infiniteViewPager.InfiniteViewPager
-        android:id="@+id/id_viewpager"
+        android:id="@+id/viewPager"
         android:layout_width="240dp"
         android:layout_height="120dp"
         android:clipChildren="false"/>
